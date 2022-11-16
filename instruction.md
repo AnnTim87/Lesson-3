@@ -1,9 +1,19 @@
-echo "# Lesson-3" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/AnnTim87/Lesson-3.git
-git push -u origin main
+# Инструкция для работы с Markdown
 
-Finished!!! Connected to git hub
+## Выделение текста
+
+Чтобы выделить текст курсивом, необходимо обрамить его звездочками(*). Например, *вот так*
+
+Чтобы выделить текст полужирным, необходимо обрамить его двойными звездочками(**). Например, **вот так**
+
+## Списки
+
+## Работа с изображениями
+
+## Ссылки
+
+## Работа с таблицами
+
+## Цитаты
+
+## Заключение
